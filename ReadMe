@@ -1,0 +1,9 @@
+Process to run Hostel Management:
+
+ Clone or Download the Hostel_Management Zip file
+ Install Java 8 or higer version in your system.
+ Install Netbeans IDE 8.2
+ Launch the Netbeans IDE
+ Extract the Hostel_Management zip file
+ Open the Hostel Management project in Netbeans IDE
+ Run the index.html file
